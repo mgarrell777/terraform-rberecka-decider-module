@@ -28,3 +28,8 @@ variable "secret" {
   sensitive = true
   description = "Your secret."
 }
+
+variable "have_ice_cream" {
+  type = bool
+  description = "Can you have ice cream?"
+}
