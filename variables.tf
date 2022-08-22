@@ -14,7 +14,6 @@ variable "first_teacher_last_name" {
 }
 
 variable "favourite_color" {
-  type = string
   description = "Favorite Color"
 }
 
