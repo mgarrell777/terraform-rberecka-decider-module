@@ -29,7 +29,7 @@ variable "secret" {
   description = "Your secret."
 }
 
-variable "have_ice_cream" {
+variable "have_icecream" {
   type = bool
   description = "Can you have ice cream?"
 }
